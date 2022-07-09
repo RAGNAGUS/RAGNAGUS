@@ -2,7 +2,7 @@
 - 👋 My full name is Kongsittha Nimking
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Computer Engineering
-- 💞️ I’m looking to collaborate on Game Developer
+- 💞️ I’m looking to collaborate on Web Developer
 - 📫 How to reach me : casnova152@gmail.com
 
 <!---
